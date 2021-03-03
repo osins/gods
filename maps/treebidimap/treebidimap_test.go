@@ -5,8 +5,8 @@
 package treebidimap
 
 import (
+	"/utils"
 	"fmt"
-	"github.com/emirpasic/gods/utils"
 	"testing"
 )
 

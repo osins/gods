@@ -10,9 +10,9 @@
 package avltree
 
 import (
+	"/trees"
+	"/utils"
 	"fmt"
-	"github.com/emirpasic/gods/trees"
-	"github.com/emirpasic/gods/utils"
 )
 
 func assertTreeImplementation() {

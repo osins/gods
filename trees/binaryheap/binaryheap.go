@@ -12,10 +12,10 @@
 package binaryheap
 
 import (
+	"/lists/arraylist"
+	"/trees"
+	"/utils"
 	"fmt"
-	"github.com/emirpasic/gods/lists/arraylist"
-	"github.com/emirpasic/gods/trees"
-	"github.com/emirpasic/gods/utils"
 	"strings"
 )
 

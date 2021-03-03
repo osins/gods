@@ -10,8 +10,8 @@
 package hashset
 
 import (
+	"/sets"
 	"fmt"
-	"github.com/emirpasic/gods/sets"
 	"strings"
 )
 

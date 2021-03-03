@@ -5,8 +5,8 @@
 package main
 
 import (
-	"github.com/emirpasic/gods/lists/arraylist"
-	"github.com/emirpasic/gods/utils"
+	"/lists/arraylist"
+	"/utils"
 )
 
 // ArrayListExample to demonstrate basic usage of ArrayList

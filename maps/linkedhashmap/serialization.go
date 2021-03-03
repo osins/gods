@@ -5,10 +5,10 @@
 package linkedhashmap
 
 import (
+	"/containers"
+	"/utils"
 	"bytes"
 	"encoding/json"
-	"github.com/emirpasic/gods/containers"
-	"github.com/emirpasic/gods/utils"
 )
 
 func assertSerializationImplementation() {

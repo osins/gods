@@ -17,10 +17,10 @@
 package btree
 
 import (
+	"/trees"
+	"/utils"
 	"bytes"
 	"fmt"
-	"github.com/emirpasic/gods/trees"
-	"github.com/emirpasic/gods/utils"
 	"strings"
 )
 

@@ -5,8 +5,8 @@
 package main
 
 import (
+	avl "/trees/avltree"
 	"fmt"
-	avl "github.com/emirpasic/gods/trees/avltree"
 )
 
 // AVLTreeExample to demonstrate basic usage of AVLTree
