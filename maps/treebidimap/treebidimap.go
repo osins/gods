@@ -18,10 +18,10 @@
 package treebidimap
 
 import (
-	"/maps"
-	"/trees/redblacktree"
-	"/utils"
 	"fmt"
+	"github.com/osins/gods/maps"
+	"github.com/osins/gods/trees/redblacktree"
+	"github.com/osins/gods/utils"
 	"strings"
 )
 

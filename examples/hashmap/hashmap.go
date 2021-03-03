@@ -4,7 +4,7 @@
 
 package main
 
-import "/maps/hashmap"
+import "github.com/osins/gods/maps/hashmap"
 
 // HashMapExample to demonstrate basic usage of HashMap
 func main() {

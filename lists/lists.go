@@ -10,8 +10,8 @@
 package lists
 
 import (
-	"/containers"
-	"/utils"
+	"github.com/osins/gods/containers"
+	"github.com/osins/gods/utils"
 )
 
 // List interface that all lists implement

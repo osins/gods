@@ -10,9 +10,9 @@
 package linkedliststack
 
 import (
-	"/lists/singlylinkedlist"
-	"/stacks"
 	"fmt"
+	"github.com/osins/gods/lists/singlylinkedlist"
+	"github.com/osins/gods/stacks"
 	"strings"
 )
 

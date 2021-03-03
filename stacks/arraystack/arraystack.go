@@ -10,9 +10,9 @@
 package arraystack
 
 import (
-	"/lists/arraylist"
-	"/stacks"
 	"fmt"
+	"github.com/osins/gods/lists/arraylist"
+	"github.com/osins/gods/stacks"
 	"strings"
 )
 

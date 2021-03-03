@@ -10,10 +10,10 @@
 package treeset
 
 import (
-	"/sets"
-	rbt "/trees/redblacktree"
-	"/utils"
 	"fmt"
+	"github.com/osins/gods/sets"
+	rbt "github.com/osins/gods/trees/redblacktree"
+	"github.com/osins/gods/utils"
 	"strings"
 )
 

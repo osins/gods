@@ -5,8 +5,8 @@
 package treeset
 
 import (
-	"/containers"
-	rbt "/trees/redblacktree"
+	"github.com/osins/gods/containers"
+	rbt "github.com/osins/gods/trees/redblacktree"
 )
 
 func assertEnumerableImplementation() {

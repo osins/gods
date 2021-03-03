@@ -12,9 +12,9 @@
 package linkedhashmap
 
 import (
-	"/lists/doublylinkedlist"
-	"/maps"
 	"fmt"
+	"github.com/osins/gods/lists/doublylinkedlist"
+	"github.com/osins/gods/maps"
 	"strings"
 )
 

@@ -5,8 +5,8 @@
 package main
 
 import (
-	"/maps/treebidimap"
-	"/utils"
+	"github.com/osins/gods/maps/treebidimap"
+	"github.com/osins/gods/utils"
 )
 
 // TreeBidiMapExample to demonstrate basic usage of TreeBidiMap

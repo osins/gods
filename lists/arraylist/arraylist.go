@@ -13,8 +13,8 @@ import (
 	"fmt"
 	"strings"
 
-	"/lists"
-	"/utils"
+	"github.com/osins/gods/lists"
+	"github.com/osins/gods/utils"
 )
 
 func assertListImplementation() {

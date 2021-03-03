@@ -4,7 +4,7 @@
 
 package main
 
-import "/sets/linkedhashset"
+import "github.com/osins/gods/sets/linkedhashset"
 
 // LinkedHashSetExample to demonstrate basic usage of LinkedHashSet
 func main() {

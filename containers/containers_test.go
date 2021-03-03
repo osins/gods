@@ -7,7 +7,7 @@
 package containers
 
 import (
-	"/utils"
+	"github.com/osins/gods/utils"
 	"testing"
 )
 

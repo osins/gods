@@ -5,8 +5,8 @@
 package main
 
 import (
-	"/trees/btree"
 	"fmt"
+	"github.com/osins/gods/trees/btree"
 )
 
 // BTreeExample to demonstrate basic usage of BTree

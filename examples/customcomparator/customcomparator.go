@@ -5,8 +5,8 @@
 package main
 
 import (
-	"/sets/treeset"
 	"fmt"
+	"github.com/osins/gods/sets/treeset"
 )
 
 // User model (id and name)

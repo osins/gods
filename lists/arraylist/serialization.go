@@ -5,8 +5,8 @@
 package arraylist
 
 import (
-	"/containers"
 	"encoding/json"
+	"github.com/osins/gods/containers"
 )
 
 func assertSerializationImplementation() {

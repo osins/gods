@@ -5,8 +5,8 @@
 package main
 
 import (
-	"/maps/treemap"
 	"fmt"
+	"github.com/osins/gods/maps/treemap"
 )
 
 func printMap(txt string, m *treemap.Map) {

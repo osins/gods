@@ -12,10 +12,10 @@
 package treemap
 
 import (
-	"/maps"
-	rbt "/trees/redblacktree"
-	"/utils"
 	"fmt"
+	"github.com/osins/gods/maps"
+	rbt "github.com/osins/gods/trees/redblacktree"
+	"github.com/osins/gods/utils"
 	"strings"
 )
 

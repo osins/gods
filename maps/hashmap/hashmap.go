@@ -12,8 +12,8 @@
 package hashmap
 
 import (
-	"/maps"
 	"fmt"
+	"github.com/osins/gods/maps"
 )
 
 func assertMapImplementation() {

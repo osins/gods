@@ -4,7 +4,7 @@
 
 package binaryheap
 
-import "/containers"
+import "github.com/osins/gods/containers"
 
 func assertSerializationImplementation() {
 	var _ containers.JSONSerializer = (*Heap)(nil)

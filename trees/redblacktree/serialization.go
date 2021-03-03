@@ -5,9 +5,9 @@
 package redblacktree
 
 import (
-	"/containers"
-	"/utils"
 	"encoding/json"
+	"github.com/osins/gods/containers"
+	"github.com/osins/gods/utils"
 )
 
 func assertSerializationImplementation() {

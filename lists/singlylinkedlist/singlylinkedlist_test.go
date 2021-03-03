@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"testing"
 
-	"/utils"
+	"github.com/osins/gods/utils"
 )
 
 func TestListNew(t *testing.T) {

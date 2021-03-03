@@ -5,8 +5,8 @@
 package main
 
 import (
-	sll "/lists/singlylinkedlist"
-	"/utils"
+	sll "github.com/osins/gods/lists/singlylinkedlist"
+	"github.com/osins/gods/utils"
 )
 
 // SinglyLinkedListExample to demonstrate basic usage of SinglyLinkedList

@@ -4,7 +4,7 @@
 
 package linkedhashset
 
-import "/containers"
+import "github.com/osins/gods/containers"
 
 func assertEnumerableImplementation() {
 	var _ containers.EnumerableWithIndex = (*Set)(nil)
